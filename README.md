@@ -77,9 +77,9 @@ python3 main.py
 You can also use arguments for quick start, for example:
 
 ```shell
-~/Blum >>> python3 main.py --action (1/2)
+~/Blum-python >>> python3 main.py --action (1/2)
 # Or
-~/Blum >>> python3 main.py -a (1/2)
+~/Blum-python >>> python3 main.py -a (1/2)
 
 # 1 - Run clicker
 # 2 - Creates a session
@@ -99,9 +99,9 @@ python main.py
 You can also use arguments for quick start, for example:
 
 ```shell
-~/Blum >>> python3 main.py --action (1/2)
+~/Blum-python >>> python3 main.py --action (1/2)
 # Or
-~/Blum >>> python3 main.py -a (1/2)
+~/Blum-python >>> python3 main.py -a (1/2)
 
 # 1 - Run clicker
 # 2 - Creates a session
@@ -113,7 +113,7 @@ You can also use arguments for quick start, for example:
 > pkg update && pkg upgrade -y
 > pkg install python nodejs rust git -y
 > git clone https://github.com/Hunga9k50doker/Blum-python.git
-> cd Blum
+> cd Blum-python
 > pip install -r requirements.txt
 > python main.py
 ```
@@ -121,9 +121,9 @@ You can also use arguments for quick start, for example:
 You can also use arguments for quick start, for example:
 
 ```termux
-~/Blum > python main.py --action (1/2)
+~/Blum-python > python main.py --action (1/2)
 # Or
-~/Blum > python main.py -a (1/2)
+~/Blum-python > python main.py -a (1/2)
 
 # 1 - Run clicker
 # 2 - Creates a session 
